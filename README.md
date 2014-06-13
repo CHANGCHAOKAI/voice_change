@@ -15,3 +15,7 @@ pyaudio_record.py主要是用來記錄使用者的聲音
 ![程式碼](./picture/pyaudio_record2.png)
 <br>
 
+spectrum_freq_process.py
+------------------------
+spectrum_freq_process.py訊號處理
+
