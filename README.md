@@ -5,3 +5,5 @@ voice_change是一個語音處理的程式,其主要目的是對頻域訊號進�
 
 pyaudio_record.py
 -----------------
+pyaudio_record.py主要是用來記錄使用者的聲音
+
