@@ -42,3 +42,6 @@ step6:將得到的時域訊號以1/2的重疊率進行疊加,得到處理後的�
 <br>
 
 <br>
+![程式碼](./picture/spectrum_freq_process2.png)
+![程式碼](./picture/spectrum_freq_process3.png)
+<br>
