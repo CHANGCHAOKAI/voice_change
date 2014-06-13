@@ -59,3 +59,6 @@ spectrum_freq-scale.py 其目的就是用來設定前面所提到spectrum_freq_p
 
 main.py
 --------
+<br>
+![程式碼](./picture/main.png)
+<br>
