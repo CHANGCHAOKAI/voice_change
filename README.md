@@ -50,3 +50,5 @@ step6:將得到的時域訊號以1/2的重疊率進行疊加,得到處理後的�
 
 spectrum_freq_scale.py
 ----------------------
+
+spectrum_freq-scale.py 其目的就是用來設定前面所提到spectrum_freq_process.py中的process_init()和process_block()
