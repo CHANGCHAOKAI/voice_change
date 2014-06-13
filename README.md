@@ -47,3 +47,6 @@ step6:將得到的時域訊號以1/2的重疊率進行疊加,得到處理後的�
 <br>
 
 在此程式中基礎類別中的process_init()和process_block()不做任何事，須用其衍生類別覆蓋此方法。
+
+spectrum_freq_scale.py
+----------------------
