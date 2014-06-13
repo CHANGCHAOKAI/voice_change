@@ -10,3 +10,4 @@ pyaudio_record.py主要是用來記錄使用者的聲音
 ![程式碼](./picture/pyaudio_record1.png)
 ![程式碼](./picture/pyaudio_record2.png)
 <br>
+
