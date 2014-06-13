@@ -54,5 +54,5 @@ spectrum_freq_scale.py
 spectrum_freq-scale.py 其目的就是用來設定前面所提到spectrum_freq_process.py中的process_init()和process_block()。
 
 <br>
-
+![程式碼](./picture/spectrum_freq_scale.png)
 <br>
