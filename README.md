@@ -19,3 +19,6 @@ spectrum_freq_process.py
 ------------------------
 spectrum_freq_process.py訊號處理
 
+<br>
+![訊號處理流程](./picture/spectrum_freq_process1.png)
+<br>
